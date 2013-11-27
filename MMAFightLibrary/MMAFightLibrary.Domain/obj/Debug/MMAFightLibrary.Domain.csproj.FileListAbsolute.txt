@@ -1,0 +1,1 @@
+C:\Users\Felipe\Dropbox\dev\MMA\MMAFightLibrary\MMAFightLibrary.Domain\obj\Debug\MMAFightLibrary.Domain.csprojResolveAssemblyReference.cache
